@@ -8,7 +8,7 @@ A simple chatbot based on chatterbot that you can use for anything has basic fea
 4. Write to the issues department so you can let me know
 
 ### I wanna help you!
-If you are a python coder with at least some features - write to the mail: github.rphpa@aleeas.com
+If you are a python coder with at least some experience - write to the mail: github.rphpa@aleeas.com
 
 ### Known bug fixes:
 1. pip install ChatterBot
