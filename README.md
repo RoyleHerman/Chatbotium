@@ -13,7 +13,7 @@ A simple chatbot based on chatterbot.
 
 #### I have some errors
 1. Read the paragraph below: Known bug fixes
-2. Read the documentation first: https://chatterbot.readthedocs.io/
+2. Read the documentation: https://chatterbot.readthedocs.io/
 3. Try to find a solution to the error on the Internet
 4. Write to the issues department so you can let me know
 
