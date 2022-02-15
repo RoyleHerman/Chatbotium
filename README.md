@@ -1,5 +1,5 @@
 ### Chatbotium
-A simple chatbot based on chatterbot that you can use for anything has basic features.
+A simple chatbot based on chatterbot.
 
 ### I have some errors
 1. Read the paragraph below: Known bug fixes
@@ -13,3 +13,7 @@ If you are a python coder with at least some experience - write to the mail: git
 ### Known bug fixes:
 1. pip install ChatterBot
 2. pip install chatterbot-corpus
+
+### This bot is giving weird answers.
+1. You can train it. Read the documentation: https://chatterbot.readthedocs.io/
+2. Please let me know so I can fix the bug.
