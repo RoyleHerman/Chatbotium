@@ -18,7 +18,7 @@ A simple chatbot based on chatterbot.
 4. Write to the issues department so you can let me know
 
 #### I wanna help you!
-If you are a python coder with at least some experience - write to the mail: github.rphpa@aleeas.com
+If you are a python coder with at least some experience - write to the email: github.rphpa@aleeas.com
 
 #### This bot is giving weird answers.
 1. You can train it. Read the documentation: https://chatterbot.readthedocs.io/
