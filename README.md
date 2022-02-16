@@ -23,3 +23,7 @@ If you are a python coder with at least some experience - write to the email: gi
 #### This bot is giving weird answers.
 1. You can train it. Read the documentation: https://chatterbot.readthedocs.io/
 2. Please let me know so I can fix the bug.
+
+#### I have questions left.
+1. Read the FAQ.
+2. Email me: github.rphpa@aleeas.com
