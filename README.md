@@ -1,5 +1,5 @@
 ### Chatbotium.
-A simple chatbot based on chatterbot.
+Chatbotium - A simple chatbot that can be trained and used for any purpose.
 
 #### How to download.
 1. Open Terminal and write this commands:
